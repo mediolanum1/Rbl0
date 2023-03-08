@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert 
 - 👀 I’m interested in finding projects where I can contribute to
 - 🌱 I’m currently studying at Computer Science major
-- 💞️ I’m looking to collaborate on anu project
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me lirobert2002@gmail.com
 
 <!---
